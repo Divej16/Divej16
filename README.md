@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Divej16
 - 👀 I’m interested in Bussiness...
-- 🌱 I’m currently learning core java
+- 🌱 I’m currently learning core java & Salesforce.
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me @divejyadav
 
